@@ -3,7 +3,7 @@
 
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-![Screenshot](/assets/images/screenshot.png?raw=true) 
+![Screenshot](/assets/screenshot.png?raw=true) 
 
 ## Table of Contents
 
